@@ -1,0 +1,57 @@
+.container {
+    background-color: dimgrey;
+    padding: 220px;
+    text-align: center;
+    color: chartreuse;
+}
+button {
+    color: darkblue;
+    background-color: olivedrab;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 15px;
+}
+button :hover{
+    background-color: aqua;
+    color: black;
+}
+.register {
+    padding: 180px;
+    background-color: darkgrey;
+    text-align: center;
+    color: forestgreen;
+}
+form.form {
+    display: inline-grid;
+    border-radius: 15px;
+}
+input[type="email"] {
+    padding: 10px;
+    border-radius: 20px;
+    color: lightgreen;
+    background-color: darkblue;
+}
+input[type="phone"] {
+    padding: 10px;
+    border-radius: 20px;
+    color: lightgreen;
+    background-color: darkblue;
+}
+input[type="password"] {
+    padding: 10px;
+    border-radius: 20px;
+    color: lightgreen;
+    background-color: darkblue;
+}
+input[type="submit"] {
+    border-radius: 9px;
+    color: red;
+    background-color: black;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+body {
+    background-color: lightgrey;
+    text-align: center;
+    color: darkblue;
+}

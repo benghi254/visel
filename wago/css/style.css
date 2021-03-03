@@ -1,0 +1,75 @@
+body{
+    padding: 0;
+    border: 0;
+    background-color: aqua;
+    margin: 0;
+}
+.nav-bar-details>div {
+    padding: 40px;
+    background-color:  cornflowerblue;
+}
+.nav-bar-details>a {
+    color: darkgoldenrod;
+    margin-left: 40px;
+}
+
+.nav-bar-details {
+    display: flex;
+    align-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: aliceblue;
+    background-color: cornflowerblue;
+    padding: 26px;
+}
+.intro {
+    text-align: center;
+    padding: 60px;
+    background-color: dodgerblue;
+}
+h1 {
+    display: -webkit-box;
+    color: chocolate;
+    font-size: 60px;
+    background-color: maroon;
+    border-radius: 30px;
+    text-align: center;
+}
+.software {
+    padding: 40px;
+    background-color: cadetblue;
+    text-align: center;
+}
+.System {
+    padding: 40px;
+    color: forestgreen;
+    background-color: black;
+    text-align: center;
+}
+.Graphics {
+    padding: 40px;
+    color: gold;
+    background-color: darkslategrey;
+    text-align: center;
+}
+.cyber {
+    padding: 40px;
+    color: red;
+    background-color: black;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;   
+}
+
+.data {
+    color: blue;
+    background-color: darkcyan;
+    padding: 40px;
+    text-align: center;
+}
+footer.footer {
+    padding: 80px;
+    background-color: grey;
+    display: flex;
+    color: antiquewhite;
+}
